@@ -1,0 +1,69 @@
+ID,Team,Gender,Age,Eduction,Nationality,Meeting,Membership,Strangers,Unacceptable,Deleted,Abused,Setting
+P1,T1,Male,21-29,High School/GED,Belgium,Most,Yes,No,Few,No,Yes,Offline
+P2,T1,Male,18-20,High School/GED,United Kingdom,Most,Yes,Maybe,Few,No,No,Offline
+P3,T1,Female,18-20,High School/GED,Finland,All,No,No,Few,No,No,Offline
+P4,T1,Male,18-20,Some College,United Kingdom,All,No,No,Few,No,No,Offline
+P5,T1,Male,18-20,High School/GED,Lithuania,Most,No,Maybe,Most,No,No,Offline
+P6,T2,Male,30-39,Bachelor's Degree,Nigeria,Most,Yes,No,Most,No,No,Offline
+P7,T2,Male,18-20,High School/GED,United Kingdom,Most,Yes,No,Few,No,No,Offline
+P8,T2,Male,21-29,High School/GED,Lithuania,Few,No,Yes,Few,No,No,Offline
+P9,T2,Male,21-29,Some College,United Kingdom,Most,No,No,Some,No,No,Offline
+P10,T3,Female,21-29,High School/GED,Italy,Some,No,Maybe,Most,No,No,Offline
+P11,T3,Female,18-20,High School/GED,Singapore,Most,Yes,Maybe,Most,No,No,Offline
+P12,T3,Male,18-20,High School/GED,United Kingdom,All,Yes,no,Most,No,No,Offline
+P13,T3,Female,21-29,High School/GED,United Kingdom,Few,Yes,Maybe,Never,Yes,Yes,Offline
+P14,T4,Female,21-29,High School/GED,Bulgaria,All,No,No,All,No,No,Offline
+P15,T4,Male,21-29,High School/GED,Pakistan,All,Yes,No,All,No,No,Offline
+P16,T4,Male,21-29,High School/GED,United Kingdom,Most,No,No,Most,No,No,Offline
+P17,T4,Male,21-29,High School/GED,Slovakia,All,Yes,Maybe,Most,No,No,Offline
+P18,T4,Male,18-20,High School/GED,United Kingdom,Few,Yes,Maybe,Most,No,No,Offline
+P19,T5,Male,21-29,High School/GED,Ireland,Most,No,No,Few,No,No,Offline
+P20,T5,Male,21-29,Some College,Singapore,Never,No,No,Few,Yes,Yes,Offline
+P21,T5,Male,21-29,Some college,Hungary,Most,Yes,No,All,No,No,Offline
+P22,T5,Male,21-29,High School/GED,Myanmar,Some,No,No,Most,No,No,Offline
+P23,T5,Male,21-29,Some College,Singapore,Some,Yes,Maybe,All,No,No,Offline
+P24,T6,Female,21-29,High School/GED,Bulgaria,Few,Yes,No,Most,No,No,Offline
+P25,T6,Male,21-29,Some College,Singapore,Few,No,Maybe,Most,No,No,Offline
+P26,T6,Male,21-29,Some College,Singapore,Never,No,Maybe,Some,No,No,Offline
+P27,T6,Male,21-29,High School/GED,Italy,Most,No,No,Few,No,No,Offline
+P28,T6,Female,21-29,High School/GED,Bulgaria,Few,Yes,No,Most,No,No,Offline
+P29,T7,Male,21-29,High School/GED,United Kingdom,Never,Yes,No,Few,No,No,Offline
+P30,T7,Female,18-20,High School/GED,Bulgaria,All,No,No,Few,No,No,Offline
+P31,T7,Female,18-20,High School/GED,France,Few,Yes,Yes,Most,No,No,Offline
+P32,T7,Male,18-20,High School/GED,United Kingdom,All,No,No,Some,No,No,Offline
+P33,T7,Male,21-29,High School/GED,Saudi Arabia,All,No,Maybe,Some,No,No,Offline
+,,,,,,,,,,,,
+P34,T8,Male,21-29,High School/GED,United Kingdom,Most,Yes,Yes,All,No,No,Online
+P35,T8,Male,21-29,High School/GED,Bulgaria,Most,Yes,Maybe,Some,No,No,Online
+P36,T8,Male,21-29,Some college,United Kingdom,Most,Yes,No,Some,No,No,Online
+P37,T8,Male,18-20,High School/GED,United Kingdom,Most,Yes,No,Some,No,No,Online
+P38,T8,Male,18-20,High School/GED,United Kingdom,Most,No,No,Few,No,No,Online
+P39,T9,Male,21-29,Some College,Pakistan,Few,Yes,Yes,All,Yes,Yes,Online
+P40,T9,Male,21-29,Some College,Pakistan,All,Yes,Yes,All,No,No,Online
+P41,T9,Male,21-29,Bachelor's Degree,Pakistan,Most,No,No,All,No,Yes,Online
+P42,T9,Male,21-29,Bachelor's Degree,Pakistan,Most,Yes,No,Most,Yes,No,Online
+P43,T9,Male,21-29,Bachelor's Degree,Pakistan,All,Yes,No,All,No,No,Online
+P44,T10,Male,18-20,High School/GED,France,All,Yes,No,Never,No,No,Online
+P45,T10,Female,21-29,High School/GED,Bulgaria,Most,No,No,Few,Yes,No,Online
+P46,T10,Male,21-29,High School/GED,United Kingdom,Most,Yes,No,All,No,No,Online
+P47,T10,Female,18-20,Some college,Spain,Most,Yes,Maybe,Few,No,Yes,Online
+P48,T11,Male,18-20,High School/GED,United Kingdom,Most,Yes,No,Few,Yes,No,Online
+P49,T11,Male,18-20,High School/GED,United Kingdom,All,Yes,No,Never,No,No,Online
+P50,T11,Male,21-29,Some College,United Kingdom,Most,Yes,No,Most,No,Yes,Online
+P51,T11,Male,18-20,High School/GED,United Kingdom,Most,Yes,Maybe,Few,Yes,No,Online
+P52,T11,Female,18-20,Some college,United Kingdom,Few,No,Maybe,Most,Yes,No,Online
+P53,T12,Male,18-20,High School/GED,United Kingdom,Never,Yes,No,Few,No,No,Online
+P54,T12,Male,21-29,Some College,United Kingdom,Most,Yes,No,Some,No,No,Online
+P55,T12,Female,21-29,High School/GED,Finland,All,Yes,No,Few,No,No,Online
+P56,T12,Female,18-20,High School/GED,Germany,Most,Yes,No,Most,No,No,Online
+P57,T12,Male,18-20,High School/GED,United Kingdom,All,Yes,Maybe,Most,No,No,Online
+P58,T13,Female,21-29,High School/GED,Bulgaria,All,No,No,All,No,No,Online
+P59,T13,Male,21-29,High School/GED,Pakistan,All,Yes,No,All,No,No,Online
+P60,T13,Male,21-29,High School/GED,United Kingdom,Most,No,No,Most,No,No,Online
+P61,T13,Male,21-29,High School/GED,Slovakia,All,Yes,Maybe,Most,No,No,Online
+P62,T13,Male,18-20,High School/GED,United Kingdom,Few,Yes,Maybe,Most,No,No,Online
+P63,T14,Male,21-29,Master's Degree,United Kingdom,Never,No,No,Never,No,No,Online
+P64,T14,Male,18-20,High School/GED,Pakistan,Most,Yes,No,Some,No,No,Online
+P65,T14,Male,21-29,High School/GED,Lithuania,Most,Yes,Maybe,Few,No,No,Online
+P66,T14,Female,21-29,Bachelor's Degree,Pakistan,All,No,No,All,Yes,Yes,Online
+P67,T14,Female,21-29,High School/GED,United Kingdom,Few,Yes,No,Some,No,No,Online

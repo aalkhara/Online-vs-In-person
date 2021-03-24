@@ -1,0 +1,902 @@
+ID,Timestamp,Team,Meeting,Setting,Comment
+P63,13:10:00,T14,First,Online,"PROJECT - Agile CIC: Sports and Physical Activity
+"
+P67,13:10:00,T14,First,Online,"1. Objectives can be defined as an app that people would want to use to track their physical activity, with a uniform and high-quality level of questioning involved, and easy to understand output for the end user"
+P63,13:10:10,T14,First,Online,"On top of that, I think they'd like to aggregate the data so they can find out the best way to get different types of individuals to become more physically active. If they're trying to design the app for ""future planning"" then it might be a good idea for them to put more resources towards activities that people would be more likely to use (as a consequence of the factors lilsted - competence, confidence, etc.)"
+P67,13:10:10,T14,First,Online,Failure could even be defined with the app working perfectly but not being intuitive enough for everyday use.
+P63,13:10:00,T14,First,Online,"I agree. In addition, I think to achieve a successful outcome we should present the gathered data in a meaningful way so that interpretations can be made accurately and efficiently."
+P67,13:10:00,T14,First,Online,Which ties into point 3. Previous attempts haven't been great at giving clear and useful feedback to users.
+P66,13:10:00,T14,First,Online,"In terms of obstacles, designing the data gathering aspect is probably the biggest one - if you think about the range of sports and physical activity that people do, risk of injury is higher in some fields compared to others, individuals' goals vary dramatically too. It'd be a pretty useless app if the first step isn't done well."
+P67,13:10:00,T14,First,Online,"Exactly. Some people are just going to want to focus on getting their fitness level up, others are going to be a little more enthusastic about sports. You've got such a wide level of experiences available and you'll need a large dataset to make it work.
+"
+P63,13:10:00,T14,First,Online,"Well, if I was thinking ahead about trying to gather the data, you gradually split it into different categories (sport/activity, then purpose), and this would then generate the correct set of questions to gather relevant data. Instead of asking a bunch of questions that bare no impact on the activity in question. So I think that before designing any sort of questionnaries, you could figure out a way of splitting the question set into different categories. Hopefully a more appropriate questionnaire tailored to the user would increase the number of respondents.
+"
+P67,13:10:00,T14,First,Online,"Various questions have various tags, and choices that users enter will select the tags to be used?
+"
+P63,13:10:00,T14,First,Online,"Yeah, could use django filtering to do that sort of thing.
+"
+P67,13:10:00,T14,First,Online,"Should we post a comment for each of the listed questions, then reply to each comment to keep it grouped together?"
+P63,13:10:00,T14,First,Online,"Seems a useful way of running this,
+"
+P63,13:10:00,T14,First,Online,"Or we could list each project and discuss them there, that might make more sense."
+P67,13:10:00,T14,First,Online,Good call.
+P63,13:30:00,T8,First,Online,1. Success is managing to get the project to where we and the customer want it to be and to get it to a phase where everyone is satisfied
+P35,13:30:00,T8,First,Online,5. The most important decisions are who is going to be doing what and what products we are going to be using
+P35,13:30:00,T8,First,Online,Are we meant to be discussing this in relation to the proposed projects?
+P37,13:35:00,T8,First,Online,I think so
+P35,13:35:00,T8,First,Online,"I would say we avoid projects which require languages none of us have covered in great detail, such as the C++ requirement for the Medipix project"
+P37,13:35:00,T8,First,Online,"Yeah, I definitely agree"
+P35,13:35:00,T8,First,Online,The For Your Eyes Only project appears to be a complex project as it would require OCR and 3D tracking.
+P37,13:35:00,T8,First,Online,There is a machine learning project
+P35,13:35:00,T8,First,Online,The craft project one
+P35,13:35:00,T8,First,Online,That could be interesting
+P37,13:35:00,T8,First,Online,"If we were to look into the craft game project, what would it mean by game? Something where the AI learns to play against human players?"
+P37,13:35:00,T8,First,Online,"Also, if the two viewers here are in control of this chat, our other members cannot join as the site claims the chat is full. Any advice on how to fix this?"
+P37,13:35:00,T8,First,Online,I suggest we all read this pdf by wednesday to have a rough idea of what we want to do and what we dont
+P35,12:55:00,T11,First,Online,hello?
+P49,12:55:00,T11,First,Online,Hi!
+P52,12:55:00,T11,First,Online,ah excellent
+P49,12:56:00,T11,First,Online,so have you guys looked at the projects yet?
+P49,12:55:00,T11,First,Online,I have had a look at a few
+P52,12:57:00,T11,First,Online,the one that sticks out to me is the neural network arcade game
+P49,12:57:00,T11,First,Online,that one sounds interesting 
+P52,13:08:00,T11,First,Online,"the chat isnt working for another team member, so we are just combining our answers. so for question 1, id define the objective is to design a game that would introduce people into the concept of using neural networks and satellites"
+P52,13:13:00,T11,First,Online,for the neural network arcade game proposal
+P52,13:13:00,T11,First,Online,yeah and success would be having a working game.
+P49,13:15:00,T11,First,Online,as for implications Id say that since this is a test before proper deployment within satelites the implications arent too severe
+P49,13:16:00,T11,First,Online,Yea I agree with that 
+P52,13:17:00,T11,First,Online,Id say that the project is important as it allows the potential customers to have an insights into the techonolgies used and leading potential customers to become actual customers 
+P52,13:19:00,T11,First,Online,"yeah thats very true, and I think that answers the stakeholders and owner/sponsor question aswell"
+P49,13:26:00,T11,First,Online,"to whoever is monitoring this, the others have been having connection issues to the chatroom and cant get back in"
+P54,10:19:00,T12,First,Online,HI
+P57,10:19:00,T12,First,Online,hi
+P56,11:00:00,T12,First,Online,oi
+P55,11:04:00,T12,First,Online,there we go
+P54,11:04:00,T12,First,Online,noice
+P56,11:04:00,T12,First,Online,hello
+P56,11:04:00,T12,First,Online,Potential pickings: page 18 for the app project
+P56,11:04:00,T12,First,Online,Seems ez
+P54,11:05:00,T12,First,Online,We are thinking of going for a project which is fairly easy to implement so we can focus on making sure we do the whole process well
+P55,11:06:00,T12,First,Online,thats fair
+P55,11:06:00,T12,First,Online,"gimme a sec to read it tho, the text is tiny lmao"
+P55,11:08:00,T12,First,Online,that seems reasonable
+P55,11:08:00,T12,First,Online,how many of the projects have you checked out?
+P54,11:09:00,T12,First,Online,im just reading through them now
+P54,11:09:00,T12,First,Online,1 seems difficult
+P54,11:09:00,T12,First,Online,2 seems like its writen by someone who doesn't really know how it will all work so might be difficult to work with
+P55,11:10:00,T12,First,Online,agree about 2
+P55,11:10:00,T12,First,Online,i assume since most of these are apps we're gonna be using java?
+P54,11:11:00,T12,First,Online,Some of them say what language to use
+P55,11:16:00,T12,First,Online,fair enough
+P55,11:16:00,T12,First,Online,3 seems cool but seems kinda hard
+P55,11:17:00,T12,First,Online,5 seems good cause we'll get good feedback from the trustee
+P55,11:17:00,T12,First,Online,that'll make our lives a lot easier
+P54,11:17:00,T12,First,Online,"moved on a bit now, page 14 is asking for iOS and Android so im against that"
+P55,11:18:00,T12,First,Online,you need an apple sdk which costs £100 lmao
+P55,11:19:00,T12,First,Online,so i agree
+P54,11:19:00,T12,First,Online,haha no chance
+P54,11:19:00,T12,First,Online,Page 17 seems really interesting
+P54,11:19:00,T12,First,Online,and as its written by a very sciency person they should be pretty straight forward asking for requirements
+P54,11:20:00,T12,First,Online,We are thinking of making a short list of 3 projects incase we dont get our first choice
+P55,11:20:00,T12,First,Online,sounds good
+P55,11:20:00,T12,First,Online,17 does sound really interesting btw
+P54,11:21:00,T12,First,Online,yeah 17 and 18 are top 2 rn
+P55,11:22:00,T12,First,Online,what you guys think about the second project for number 3?
+P56,11:22:00,T12,First,Online,which page?
+P55,11:23:00,T12,First,Online,4
+P54,11:23:00,T12,First,Online,That was the one I meant was interesting but looked quite difficult I think
+P54,11:23:00,T12,First,Online,mixed them up
+P55,11:23:00,T12,First,Online,fairs fairs
+P54,11:23:00,T12,First,Online,And the words neural network is scary
+P55,11:23:00,T12,First,Online,i think the first project of the two is definitely more difficult
+P54,11:23:00,T12,First,Online,of the shortlisted ones?
+P55,11:23:00,T12,First,Online,yea that's the one which i agree with looks pretty hard lol
+P55,11:23:00,T12,First,Online,"there are two, the one on page 4 seems interesting and not too difficult imho"
+P55,11:25:00,T12,First,Online,the satellite simulation one
+P55,11:26:00,T12,First,Online,what do you guys think
+P54,12:26:00,T12,First,Online,seems pretty difficult with using Blender and that
+P54,11:34:00,T12,First,Online,what do you think of the very last one
+P55,11:34:00,T12,First,Online,fair enough
+P54,11:34:00,T12,First,Online,seems like a pretty easy concept
+P54,11:34:00,T12,First,Online,just have to make it on mobile
+P55,11:34:00,T12,First,Online,seems reasonable but by cross-platform they might mean ios too
+P54,11:34:00,T12,First,Online,yeah true
+P54,11:34:00,T12,First,Online,dont have to pick today thank god
+P54,11:35:00,T12,First,Online,can go over it more after today
+P54,11:35:00,T12,First,Online,We should discuss the questions below now
+P54,11:35:00,T12,First,Online,lets pick page 18 to talk about
+P55,11:35:00,T12,First,Online,fairs
+P55,11:35:00,T12,First,Online,also we can develop ios apps without paying but won't be able to publish them i think
+P56,11:35:00,T12,First,Online,The objectives of project pg.18 is clearly defined we can use that as our milets
+P56,11:35:00,T12,First,Online,stones
+P55,11:36:00,T12,First,Online,"yup, success would be defined in doing at least the first three"
+P56,11:36:00,T12,First,Online,We're just going to pick a couple questions since we'll leave soon
+P56,11:37:00,T12,First,Online,Let's discuss 6)
+P54,11:37:00,T12,First,Online,Learning to develop an app would be an obstacle
+P55,11:37:00,T12,First,Online,was about to say
+P55,11:40:00,T12,First,Online,maybe creating two different experiences for the centre and users?
+P56,11:40:00,T12,First,Online,I personally think
+P56,11:40:00,T12,First,Online,"POTENTIAL PROBLEMS Last year's student app development project was a success for us, but not without some hiccups from which lessons have been drawn. (1) We must agree full IP assignment to the Trust. (2) The app, and all data generated from it, must be hosted securely on the Trust's own servers. (Last year's turnstile app lost function and data records for several months when a third party server licence went unrenewed and contact could not be made with the developers). (3) The Trust should be given complete source code for future maintenance/ adaptation/ development/ replication. (4) The App should be operational in full compliance with GDPR regulations."
+P54,11:45:00,T12,First,Online,I concur
+P55,11:45:00,T12,First,Online,damn
+P55,11:45:00,T12,First,Online,gdpr and security are big ones
+P54,11:47:00,T12,First,Online,yeah true
+P54,11:47:00,T12,First,Online,So what keeps us up at night about this?
+P54,11:47:00,T12,First,Online,GDPR defo keeps me up at night
+P56,11:48:00,T12,First,Online,Whether or not we'll get the project
+P54,11:48:00,T12,First,Online, :S- 
+P55,11:48:00,T12,First,Online,turning over the source code won't be too difficult
+P55,11:49:00,T12,First,Online,"we'd need access to the servers ofc, not sure how to go about that"
+P55,11:49:00,T12,First,Online,as said above
+P54,11:49:00,T12,First,Online,I'm passionate about young people aged 13-30 gaining the confidence and skills they require to fulfil their potential in life
+P55,11:50:00,T12,First,Online,deffo concur sean
+P56,11:50:00,T12,First,Online, (y) 
+P55,11:50:00,T12,First,Online,what are our personal passions about this project
+P55,11:51:00,T12,First,Online,damn i didn't even see your message sean lmao
+P55,11:51:00,T12,First,Online, :S- 
+P54,11:52:00,T12,First,Online,"OK I want to go to lunch, anything else you want to say?"
+P55,11:52:00,T12,First,Online,i guess we're done?
+P55,11:53:00,T12,First,Online,lmao fairs
+P54,11:53:00,T12,First,Online, (y) 
+P56,11:53:00,T12,First,Online,Think we done
+P55,11:54:00,T12,First,Online,so the football one is our third choice?
+P54,11:54:00,T12,First,Online,Think so
+P54,11:54:00,T12,First,Online,seems easy
+P55,11:54:00,T12,First,Online,sounds good
+P56,11:54:00,T12,First,Online,NICE
+P55,11:54:00,T12,First,Online,sweet
+P55,11:54:00,T12,First,Online,see you guys next week i suppose lmao
+P54,11:54:00,T12,First,Online,yep see you then
+P56,11:55:00,T12,First,Online, :D 
+P44,13:01:37,T10,First,Online,what are we supposed to talk about then?
+P45,13:01:47,T10,First,Online,How do we define success 
+P44,13:02:55,T10,First,Online,haha
+P44,13:05:49,T10,First,Online,"ok, this is a bit generic"
+P44,13:05:57,T10,First,Online,but lets give it a go
+P44,13:05:59,T10,First,Online,success is when there is nothing else to do
+P44,13:06:05,T10,First,Online,so it is never really attainable but you can get close to it
+P46,13:07:36,T10,First,Online,Well to me success of the project start with successfully being assigned to a team where the team members seem to care and work hard (enough) :D
+P45,13:07:41,T10,First,Online,Getting a good grade would be nice as well
+P46,13:07:43,T10,First,Online,"Yeah but without too much stressful, i.e. we meet the deadlines in the meantime etc."
+P46,13:07:45,T10,First,Online,*stress
+P45,13:07:50,T10,First,Online,If the project doesn't succeed I think the implications are clear
+P46,13:07:51,T10,First,Online,What do you mean?
+P45,13:07:55,T10,First,Online,That we're either not very motivated or smart 
+P45,13:08:30,T10,First,Online,Whichever you choose 
+P46,13:08:35,T10,First,Online,I don't think these projects require you to be smart tbh
+P45,13:08:38,T10,First,Online,Then motivated 
+P46,13:08:47,T10,First,Online,I guess this is gonna be a dialogue then
+P45,13:08:49,T10,First,Online,A dialogue is better than a monologue 
+P45,13:08:52,T10,First,Online,What do you think are the key milestones?
+P47,13:09:01,T10,First,Online,"I don't quite understand what they mean by , why is this problem so important.."
+P47,13:09:07,T10,First,Online,*project
+P47,13:09:18,T10,First,Online,We don't even know our topic
+P47,13:09:40,T10,First,Online,Key milestones? To have a prototype before Christmas
+P47,13:09:46,T10,First,Online,And then presenting the product to the client maybe
+P45,13:09:53,T10,First,Online,Let's just pick one from the list 
+P47,13:10:01,T10,First,Online,What are important milestones for you?
+P47,13:10:03,T10,First,Online,Hi
+P45,13:10:11,T10,First,Online,Same as you said 
+P45,13:10:12,T10,First,Online,You like the charity project?
+P47,13:10:28,T10,First,Online,IDK there is a couple
+P47,13:10:31,T10,First,Online,The image processing one sounds fine
+P45,13:10:46,T10,First,Online,Let's focus on it then
+P47,13:10:56,T10,First,Online,What are the most important decisions to be made?
+P45,13:11:04,T10,First,Online,How to implement it in the most efficient way and what role will each of us have in the first place
+P47,13:11:39,T10,First,Online,Yeah and I think only bad communication can prevent us from making bad decisions
+P45,13:11:44,T10,First,Online,Prevent?
+P47,13:12:04,T10,First,Online,Bad decisions are a great learning experience
+P47,13:12:18,T10,First,Online,Lol that was a typo
+P45,13:17:21,T10,First,Online,That's why we should probably focus on communication between ourselves 
+P45,13:20:55,T10,First,Online,And the customer 
+P47,13:21:47,T10,First,Online,Yeah my mum told me that usually the hardest part
+P47,13:22:03,T10,First,Online,Since the customer often does not know how programming works
+P47,13:22:52,T10,First,Online,Or has idea that won't work in practice
+P47,13:22:55,T10,First,Online,And it's our task to give them last popsci explanation of why something is not realisable
+P47,13:22:59,T10,First,Online,*the
+P45,13:23:13,T10,First,Online,The problem is that we might not know either 
+P47,13:23:15,T10,First,Online,Well I think we kind of do
+P47,13:23:20,T10,First,Online,The details we can research
+P45,13:23:45,T10,First,Online,Hopefully we do
+P45,13:24:09,T10,First,Online,What risks are we willing to take?
+P47,13:24:47,T10,First,Online,But often people have ideas
+P47,13:24:58,T10,First,Online,But can make them precise
+P47,13:25:07,T10,First,Online,Can't*
+P47,13:25:22,T10,First,Online,As riskfree as possible?
+P47,13:25:25,T10,First,Online,Try to get done everything as soon as possible?
+P47,13:25:43,T10,First,Online,Always be super nice and accommodating to the customer
+P45,13:25:47,T10,First,Online,I think they're asking what risks we're willing to take to make the project successful 
+P45,13:26:11,T10,First,Online,All the risks
+P47,13:27:08,T10,First,Online,Why does it need to be risks
+P47,13:27:38,T10,First,Online,We just go safe lol
+P47,13:27:38,T10,First,Online,The question is not precise imo
+P45,13:27:38,T10,First,Online,Yeah true
+P45,13:27:45,T10,First,Online,What keeps me up at night about this is that I need a good grade
+P47,13:27:55,T10,First,Online,We should always fcusf on keeping the customer up to date
+P47,13:28:09,T10,First,Online,Running after them to make sure they know what's up
+P47,13:28:10,T10,First,Online,And involving them in the most important changes
+P47,13:28:40,T10,First,Online,Yeah and we all have to work hard
+P45,13:28:56,T10,First,Online,You're right
+P47,13:29:06,T10,First,Online,Otherwise everyone is screwed
+P45,13:29:12,T10,First,Online,So my personal passion about this is making something actually working 
+P45,13:29:15,T10,First,Online,What topics haven't we discussed?
+P47,13:29:18,T10,First,Online,I want sth interesting otherwise it will feel like a chore every Wednesday
+P45,13:29:33,T10,First,Online,We'll pick something interesting 
+P47,13:29:50,T10,First,Online,And get an A1
+P45,13:30:22,T10,First,Online,I'm fine with an A5
+P47,13:30:35,T10,First,Online,Reach for the Stars
+P45,13:30:41,T10,First,Online,I'm the only one here now
+P45,13:31:05,T10,First,Online,Yay
+P42,13:31:08,T9,First,Online,ur mom keeps me up at night😍
+P42,13:31:14,T9,First,Online,I am this projects greatest assets
+P41,13:31:18,T9,First,Online,"Most of these questions are hard to answer at this stage of the project since we don't have a project yet. 
+"
+P43,13:31:29,T9,First,Online,"I think the key milestones are gathering initial requirements, design/planning, implementation, QA, and upkeep. Repeat the steps, for further development."
+P42,13:31:40,T9,First,Online,yes those sound good 👍
+P42,13:31:40,T9,First,Online,proud of u
+P42,13:31:44,T9,First,Online,I'd rather not discuss ur mom
+P42,13:32:02,T9,First,Online,got em
+P42,13:32:32,T9,First,Online,I like trains
+P43,13:32:43,T9,First,Online,controversial opinion
+P39,13:32:58,T9,First,Online,"The Objective, is not to fail the project in order to progress to 4th year.
+Success is defined as the opposite of failure :dabBlob:"
+P41,13:33:07,T9,First,Online,Success = Happy and satisfied customer.
+P43,13:34:08,T9,First,Online,this is the minimum of happiness we need to achieve -> 😺
+P43,13:34:32,T9,First,Online,If the project doesn't succeed 😟😡
+P41,13:34:40,T9,First,Online,"I agree, that would be very😟
+"
+P39,13:34:43,T9,First,Online,"I share your views man, here is a video that helps narrow the chances of failing https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+P43,13:34:57,T9,First,Online,"I will never give up on this project 👍👍👍
+"
+P59,13:01:00,T13,First,Online,Anyone make it into the chat?
+P59,13:01:00,T13,First,Online, :o.O 
+P60,13:02:00,T13,First,Online,:|
+P58,13:05:00,T13,First,Online,OLE
+P62,13:05:00,T13,First,Online,Ohhh
+P60,13:05:00,T13,First,Online,Hhh?
+P62,13:06:00,T13,First,Online,Now it works apparently
+P58,13:07:00,T13,First,Online,wow
+P58,13:07:00,T13,First,Online,if I put my name as
+P58,13:07:00,T13,First,Online,HHHH
+P58,13:07:00,T13,First,Online,it works
+P58,13:07:00,T13,First,Online,HAHA
+P60,13:07:00,T13,First,Online,Interesting stuff
+P60,13:07:00,T13,First,Online,Hhh?
+P58,13:08:00,T13,First,Online,You know what the problem might be
+P58,13:08:00,T13,First,Online,I checked the PLAN
+P58,13:08:00,T13,First,Online,this chatroom is on
+P58,13:08:00,T13,First,Online,it allows only 4 seats
+P62,13:08:00,T13,First,Online,And?
+P62,13:08:00,T13,First,Online,Haha :D 
+P60,13:09:00,T13,First,Online,Well
+P60,13:09:00,T13,First,Online,I can make room for someone else :)
+P58,13:09:00,T13,First,Online,so probably one more can join in
+P62,13:09:00,T13,First,Online,And are we supposed to just discuss the projects over here?
+P58,13:09:00,T13,First,Online,yeah
+P58,13:09:00,T13,First,Online,pretty much what we did last time
+P58,13:10:00,T13,First,Online,but you guys didnt make it
+P62,13:10:00,T13,First,Online,But this is just chat only yeah?
+P62,13:10:00,T13,First,Online,I know :( 
+P58,13:10:00,T13,First,Online,so this should be new
+P58,13:10:00,T13,First,Online,have a look at the projects
+P58,13:10:00,T13,First,Online,skim them through
+P58,13:10:00,T13,First,Online,pick out like 4 that both of you find interesting at first glance
+P58,13:10:00,T13,First,Online,doesnt have to be the ones we already saw
+P62,13:11:00,T13,First,Online,Right
+P58,13:11:00,T13,First,Online,lets give ourselves like
+P58,13:11:00,T13,First,Online,7 mins
+P60,13:12:00,T13,First,Online,Sure man
+P58,13:12:00,T13,First,Online,"also, refer to the questions on the left, they were quite helpful last time in shortlisting projects"
+P58,13:17:00,T13,First,Online,alright guys 3 more mins and then lets list the projects we found the best
+P58,13:20:00,T13,First,Online,all done?
+P60,13:21:00,T13,First,Online,I was thinking there's a plus with the first one
+P60,13:22:00,T13,First,Online,"Them doing development already would make it a lot easier to communicate, right?"
+P58,13:22:00,T13,First,Online,"Yeah but it would also limit our choices of langauges, frameworks etc"
+P58,13:22:00,T13,First,Online,its not 
+P58,13:22:00,T13,First,Online,a bad project
+P62,13:23:00,T13,First,Online,That's true
+P60,13:23:00,T13,First,Online,Good point
+P58,13:23:00,T13,First,Online,"seems pretty good, getting people active"
+P60,13:23:00,T13,First,Online,"For the second one, I thought it'd be too much to involve neural nets already"
+P58,13:24:00,T13,First,Online,"from the info i guess what they want is just a questionnaire app, that stores and analysis user data"
+P62,13:24:00,T13,First,Online,Do you mean for the first project Jawad?
+P60,13:24:00,T13,First,Online,"Sorry, let's stick with the first one :)"
+P58,13:25:00,T13,First,Online,"yeah we discussed the nueral network project, seemed like it would require a HUGE amount of effort on our part"
+P62,13:25:00,T13,First,Online,"Yeah, most likely"
+P58,13:25:00,T13,First,Online,"yeah, wasnt Ole talking about the first one"
+P58,13:25:00,T13,First,Online,"Jan, which one did you like the most"
+P60,13:25:00,T13,First,Online,I changed too soon
+P62,13:26:00,T13,First,Online,"To me, I really liked the first project at the first glance"
+P62,13:27:00,T13,First,Online,"But then when I read it again, it seems to be more hci oriented and would mostly revolve around designing an aesthetically pleasing interface and data visualisation "
+P62,13:27:00,T13,First,Online,So not that challenge and definitely not a challenge I am looking for
+P60,13:27:00,T13,First,Online,Yep :/
+P58,13:27:00,T13,First,Online,haha running away from HCI
+P62,13:27:00,T13,First,Online,So true haha :D 
+P60,13:27:00,T13,First,Online,OBASHI tho?
+P62,13:28:00,T13,First,Online,Let me have a look
+P60,13:28:00,T13,First,Online,Might also be too HCI
+P58,13:28:00,T13,First,Online,Obashi was actually my first choice
+P58,13:28:00,T13,First,Online,it involves some encryption learning 
+P58,13:29:00,T13,First,Online,and is kind of challenging without being overwhelming
+P62,13:29:00,T13,First,Online,Yes
+P58,13:29:00,T13,First,Online,it was one of the shortlisted ones
+P62,13:29:00,T13,First,Online,I like that project a lot
+P62,13:29:00,T13,First,Online,"yeah, we discussed it a bit in the lab on wednesday"
+P62,13:29:00,T13,First,Online,Also I like the idea of it
+P62,13:30:00,T13,First,Online,It would require some form of pic to text conversion and then the actual process of decrypting the data
+P58,13:30:00,T13,First,Online,exactly
+P58,13:30:00,T13,First,Online,would allow us to work with different challenges
+P62,13:30:00,T13,First,Online,And the whole idea that your phone is going to be the key to decrypting it is quite appealing :) 
+P58,13:31:00,T13,First,Online,"but keep in mind, Matus isnt tooo fond of it"
+P62,13:31:00,T13,First,Online,"Yes, and I can imagine, it still would be perfectly doable "
+P62,13:31:00,T13,First,Online,Oh really?
+P58,13:31:00,T13,First,Online,Ivelina is okay with it
+P62,13:31:00,T13,First,Online,Hmm
+P58,13:31:00,T13,First,Online,also
+P62,13:31:00,T13,First,Online,And how about you Jawad and the Sports project?
+P58,13:31:00,T13,First,Online,check out the sportslab
+P58,13:32:00,T13,First,Online,"yeah Im okay with it, the only problem I had with the project is"
+P58,13:32:00,T13,First,Online,"seems simple, idk I cant see where the crazy challenge might be, but I could be wrong"
+P58,13:32:00,T13,First,Online,Ole? what do you think as well
+P60,13:32:00,T13,First,Online,I did like the sports one :)
+P60,13:33:00,T13,First,Online,Seems very managable
+P62,13:34:00,T13,First,Online,it's true that the greatest challenge would be to do the math correctly and produce an accurate result
+P58,13:34:00,T13,First,Online,"so its like pros and cons, sports is simpler probably easier and involved with quite a reputable client"
+P60,13:34:00,T13,First,Online,"Maths is easy, no worries!"
+P58,13:34:00,T13,First,Online,"plus its sports, we're all into it"
+P62,13:34:00,T13,First,Online,"I think that between the sportslab and obashi, obashi is going to be more challenging "
+P60,13:35:00,T13,First,Online,Agreed
+P58,13:35:00,T13,First,Online,yeah
+P58,13:35:00,T13,First,Online,for me its still pretty much
+P58,13:35:00,T13,First,Online,Obashi > SportsLab
+P62,13:35:00,T13,First,Online,"I know math is easy, it will just be interesting to put all the features together "
+P58,13:35:00,T13,First,Online, :D 
+P60,13:35:00,T13,First,Online,:D
+P62,13:35:00,T13,First,Online,I see :D 
+P58,13:36:00,T13,First,Online,"but both of them are great, wouldnt mind doing either of them"
+P58,13:36:00,T13,First,Online,need to talk to the clients
+P60,13:36:00,T13,First,Online,I feel the same way on that
+P62,13:36:00,T13,First,Online,true :) 
+P58,13:36:00,T13,First,Online,its like
+P58,13:36:00,T13,First,Online,theres a larger risk with obashi
+P62,13:36:00,T13,First,Online,And how about the other ones you shortlisted?
+P58,13:36:00,T13,First,Online,but a larger reward
+P62,13:36:00,T13,First,Online,"high risk, high reward ;)"
+P58,13:36:00,T13,First,Online,and the opposite with sports lab
+P60,13:37:00,T13,First,Online,"Hm, is the reward indirect?"
+P60,13:37:00,T13,First,Online,Do we benefit in concrete ways?
+P58,13:37:00,T13,First,Online,reward is pretty much the satisfaction
+P58,13:37:00,T13,First,Online,of doing it
+P58,13:37:00,T13,First,Online, :D 
+P60,13:37:00,T13,First,Online,I'd be careful then :D
+P62,13:37:00,T13,First,Online,Well said my friend :D 
+P62,13:38:00,T13,First,Online,It would be a greater achievement to successfully complete a more complex project :) 
+P58,13:38:00,T13,First,Online,although
+P58,13:38:00,T13,First,Online,we wont be judged
+P58,13:38:00,T13,First,Online,on the COMPLEXITY
+P58,13:38:00,T13,First,Online,of our projects
+P58,13:38:00,T13,First,Online,just how good we do them
+P58,13:38:00,T13,First,Online,sooooooooo
+P58,13:38:00,T13,First,Online,theres that
+P58,13:38:00,T13,First,Online, :D :D :D :D
+P62,13:39:00,T13,First,Online,"Yeah, but to me my personal satisfaction is an important factor :D  "
+P60,13:39:00,T13,First,Online,I like good grades ;)
+P60,13:39:00,T13,First,Online,"But yeah, there's that :)"
+P62,13:39:00,T13,First,Online,So I would rather stay away from all the hci bs :D 
+P58,13:39:00,T13,First,Online,well to be fair
+P58,13:39:00,T13,First,Online,obashi would invovle
+P58,13:39:00,T13,First,Online,quite a bit of HCI
+P58,13:39:00,T13,First,Online,so would sports
+P62,13:39:00,T13,First,Online,I doubt that the five of us won't be able to handle a greater challenge ;) 
+P60,13:40:00,T13,First,Online,Of course :D
+P62,13:40:00,T13,First,Online,"Well all of the projects would to a certain extent, but these two are not built on it :) "
+P58,13:40:00,T13,First,Online,yes lets leave all the projects
+P58,13:40:00,T13,First,Online,program a spacecraft
+P58,13:40:00,T13,First,Online,whos with me
+P58,13:40:00,T13,First,Online, ;) 
+P62,13:40:00,T13,First,Online,+
+P62,13:41:00,T13,First,Online,haha :D 
+P58,13:41:00,T13,First,Online,alright so I guess
+P58,13:41:00,T13,First,Online,what we take from today is
+P58,13:41:00,T13,First,Online,Ole : Sports > Obashi
+P60,13:41:00,T13,First,Online,Yee
+P58,13:41:00,T13,First,Online,Jan : Obashi > Sports
+P62,13:41:00,T13,First,Online,right 
+P58,13:41:00,T13,First,Online,Jawad : Obashi > Sports
+P58,13:41:00,T13,First,Online,we know that for Matus
+P58,13:42:00,T13,First,Online,Sports > Obashi
+P62,13:42:00,T13,First,Online,So it's 2v2 now :D
+P58,13:42:00,T13,First,Online,and Invelina is pretty much Sports == Obashi
+P62,13:42:00,T13,First,Online,Ivelina has to decide haha :D 
+P62,13:42:00,T13,First,Online,Ohhhhh :D 
+P58,13:42:00,T13,First,Online,yep
+P60,13:42:00,T13,First,Online,Damnit Inveline :D
+P62,13:42:00,T13,First,Online,So we got nowhere :D 
+P58,13:42:00,T13,First,Online,no
+P58,13:42:00,T13,First,Online,see
+P62,13:42:00,T13,First,Online,Decide nooooooooow :D 
+P58,13:42:00,T13,First,Online,what we gave done is
+P60,13:42:00,T13,First,Online,Flip coin?
+P60,13:42:00,T13,First,Online,Rock paper scissors? :D
+P58,13:42:00,T13,First,Online,put it on Ivelina
+P60,13:42:00,T13,First,Online,Aah
+P62,13:43:00,T13,First,Online,Or don't do any of them and find sth else :D 
+P62,13:43:00,T13,First,Online,Alright guys
+P60,13:43:00,T13,First,Online,So we all agree?
+P62,13:43:00,T13,First,Online,Shall we finish it here? :) 
+P60,13:43:00,T13,First,Online,Invelina takes one for the team? :D
+P58,13:43:00,T13,First,Online,"yeah, for now"
+P58,13:43:00,T13,First,Online,Obashi and Sports
+P58,13:43:00,T13,First,Online,are top
+P58,13:43:00,T13,First,Online,we can discusss others in detail later
+P62,13:43:00,T13,First,Online,And let the final decision to be made when we meet in person? 
+P58,13:43:00,T13,First,Online,and if it comes down to it
+P62,13:44:00,T13,First,Online,yh
+P58,13:44:00,T13,First,Online,we will be evil and make Ivelina choose
+P60,13:44:00,T13,First,Online,Cool :D
+P62,13:44:00,T13,First,Online,Haha :D 
+P62,13:44:00,T13,First,Online,The pressure is on :D 
+P60,13:44:00,T13,First,Online,(Y)
+P60,13:44:00,T13,First,Online,:(
+P58,13:44:00,T13,First,Online,thats great work
+P58,13:44:00,T13,First,Online,time to say goodbye
+P60,13:44:00,T13,First,Online,Yee
+P60,13:44:00,T13,First,Online,Sayonara
+P62,13:44:00,T13,First,Online,right
+P62,13:45:00,T13,First,Online,ty guys and cya around 
+P58,13:45:00,T13,First,Online, :-Z 
+P62,13:45:00,T13,First,Online, <-^ 
+P63,12:11:56,T14,Second,Online,"What about writing all the testing stuff? I understood the material covered in OOSE2 well enough, but I'm not very good at the actual implementation."
+P63,12:11:56,T14,Second,Online,"6. Have we changed the structure of the team yet? If so, how and why?"
+P63,12:11:56,T14,Second,Online,"Except from reassigning Hassan's roles, there's been no need to change the structure. Are either of you unhappy with your roles?"
+P66,12:11:56,T14,Second,Online,"I'm happy with our assigned roles too. I think we work well as a team. How about you Bekah?
+"
+P67,12:11:56,T14,Second,Online,"I'm happy as librarian and customer liason. We should probably just check in every month or so that everyone is happy with their roles though, and maybe shift things around if people want to try something else.
+"
+P66,12:11:56,T14,Second,Online,"I agree, we should have mostly discussions but so far I think things are going well. "
+P63,12:11:56,T14,Second,Online,👍
+P63,12:11:56,T14,Second,Online,5. Are we finding our coaches useful?
+P63,12:11:56,T14,Second,Online,"Sort of, it's nice having two. I guess it's too early to have found any really use for them yet. they gave some good information regarding live wireframe interaction today, and some feedback on what software to use.
+"
+P67,12:11:56,T14,Second,Online,I definitely feel like having 2 coaches is helpful as we get two different opinions and two extra sets of eyes which may notice things we've missed. I don't think we'll really hit the point where we're able to say if they've been invaluable until we start properly working on the project.
+P66,12:11:56,T14,Second,Online,"I think our coaches have been really helpful so far. I agree, we haven't had detailed discussions regarding our work with them but we're still early in the design stage so I think that's understandable."
+P66,12:11:56,T14,Second,Online,"I think having two coaches is great too. I think they have been generous with their knowledge and I found their recommended resources useful.
+"
+P63,12:11:56,T14,Second,Online,4. How are we finding the behaviour of our customers?
+P63,12:11:56,T14,Second,Online,Sonia and Ron are fine. They need to communicate better though - see Q2 above.
+P67,12:11:56,T14,Second,Online,"Agreed. They're nice but they need to communicate better with each other and with us. We may also need to hold their hands through some of the more technical details to get clearer responses and feedback.
+"
+P66,12:11:56,T14,Second,Online,I agree and they seem willing to dedicate time for discussing the project when necessary which is great.
+P63,12:11:56,T14,Second,Online,"Do you think they're happy to leave us to develop this at our own pace since they don't know much (anything) about software development, provided they're kept in the loop? 
+
+I think that's a positive aspect of being assigned this project - other customers that were at the customer day would probably be more demanding since they have an idea in their head of how much should be getting done by certain dates.
+"
+P66,12:11:56,T14,Second,Online,"Yes, they seem to trust us as long as we keep them updated regularly I think we can work at our own pace."
+P63,12:11:56,T14,Second,Online,"3. Have we decided to use a new technology (to us)? If so, is it concerning?"
+P63,12:11:56,T14,Second,Online,"Whatever we use will be new for me. I've never even looked at developing mobile apps. Do either of you have any experience?
+"
+P67,12:11:56,T14,Second,Online,"No experience with designing mobile apps but I look forward to seeing where this goes.
+"
+P63,12:11:56,T14,Second,Online,"Have you had a look at any of the potential options we've discussed so far? 
+
+- Android Studio 
+- React Native
+- Unity (apparently this is possible).
+
+"
+P66,12:11:56,T14,Second,Online,"We could brainstorm ideas on the discord chat - I think 'Pain Killers' came up but we have lots of time to come up with something 
+"
+P67,12:11:56,T14,Second,Online,"I feel like our best bet for the design suite is to go for something in a language we know with a lot of user support available if need be.
+"
+P66,12:11:56,T14,Second,Online,"I think we need to do more research but React Native will be in JavaScript and Android Studio will probably be in Java (Kotlin is also an option but is a new language for everyone). We need to weigh the pros and cons for all our options.
+. "
+P63,12:11:56,T14,Second,Online,"Is anyone particularly good at design? I'm not very keen on it (doing those wireframes ate up my entire weekend), so I'd lean towards Android Studio since it's more user friendly.
+
+We're probably better taking some more time to work with them individually before discussing it; that should probably be done by next Wednesday before we meet our coaches.
+"
+P66,12:11:56,T14,Second,Online,I'm the chief architect so I can help you with the design.
+P63,12:11:56,T14,Second,Online,2. Do we have to work across teams?
+P63,12:11:56,T14,Second,Online,"No, we don't. Bekah - it turns out there was miscommunication between Sonia and Ron, so both groups are doing the application separately.
+
+Maybe we should use this space to discuss some possible team names?"
+P66,12:11:56,T14,Second,Online,"Maybe we can have a poll on discord for the team names?
+"
+P63,12:11:56,T14,Second,Online,"Good plan, we can each come up with a name and then do a poll like we done for Call vs Skype.
+"
+P67,12:11:56,T14,Second,Online,"I was there when we were informed that there had been miscommunication. I guess this is a great and noble tradition of miscommunications. I have no real idea what we'd call ourselves as a team tbh,
+"
+P66,12:11:56,T14,Second,Online,"I think as we will be following the Agile methodology and using issue tracking, we'll be okay working on the different stages.
+"
+P63,12:11:56,T14,Second,Online,1. Are we concerned about the scope of the project?
+P63,12:11:56,T14,Second,Online,"Yes, I've never dealt with a project of this scope. How do you guys feel about it?
+"
+P66,12:11:56,T14,Second,Online,"Yes, I believe there will be steep learning curve, but our requirements gathering helped to reduce my initial concern.
+"
+P63,12:11:56,T14,Second,Online,"Do you think you have a good idea of where we should be at different stages of the project? By that I mean, do you have an idea of what we should have completed for the app by certain dates.
+"
+P67,12:11:56,T14,Second,Online,"The project is bigger than any computing project I've done before, but I do look forward to seeing where we can go. We've already made a good start on looking at functionality
+"
+P63,12:11:56,T14,Second,Online,"I worked on a web app over the summer that was pretty challenging, but it didn't have nearly as much planning as this. Maybe it's trying to plan out so much from the start that's making it difficult for me to see how to approach the whole thing.
+
+Guess that's the point in this course: to learn these things.
+"
+P67,12:11:56,T14,Second,Online,"I personally find the planning really helpful. When it comes to implementation, I'm a little more worried but we've got a good idea of what we need to build and we've already started drafting out how we want to do this all.
+"
+P66,12:11:56,T14,Second,Online,"I agree, I feel our planning is very helpful. I think being able to contact our clients easily minimises my concern as well. We can get feedback and constantly assess our work. 
+"
+P38,12:11:10,T8,Second,Online,"1. After our last meeting with the client we built up a significant list of features for the application which were building. There were some features we were slightly concerned on how to integrate based on the time we have for development. That being said, we had agreed with the client that those features can be pushed aside and made as extra features or a wish list of features if the final product is built with enough time to spare. We then worked from top to bottom on the application flow to iron out and get concrete requirements so we know what features we need to implement.
+ 2. We do not work across teams.
+ 3. We have all agreed that two new technologies (to us) will be used, these being React and NodeJS. These technologies are very heavily used in the industry and have various resources for documentation, libraries etc. so we arent worried about using them. 
+ 4. The customer  is very co-operative and open to different ideas for the application. They are happy to meet us on a consistent schedule to ensure that what were building meets their vision and requirements.
+ 5. Our coach has provided us starter help with how to deal with clients and what we should be asking - drawing on their own experience to provide with some perspective.
+ 6. The team currently has a loose structure, with no concrete roles currently assigned. We are assisting each other for meantime as we are just starting our project but as we get more into development we will each be more focused on our own roles (while still providing support to team members). We intend on changing about the roles as we continue through the year so each member gets a chance to experience different roles within a functioning team."
+P35,12:11:03,T8,Second,Online,"5. Coaches are extremely useful because they can provide guidance not only on the project, but on other matters important for us as well"
+P37,12:11:12,T8,Second,Online,"1. The scope of the project is wide in terms of the possible analysis option for the data, but through discussions with the client, this scope of reduced significantly to the point I feel comfortable we will complete the project.
+2. We do not work across teams.
+3. We have decided to use two new technologies since the client plans to expand the project after our submission, and the new technologies are used in their preexisting products. The use of the new technologies is not concerning as they are widely used in the industry, and as such have extensive documentation and tutorials, meaning the barrier of entry is reduced. Also, the technologies have been designed to be simple to understand and produce a basic product with, while having the option of extensive customization and extension as required.
+4. Our customers are extremely cooperative and open to discussion about the product.
+5. Our coach provides meta-level support for how to approach the project and best handle VCS and CI. This has helped when starting discussions with the client and working collaboratively on the development of the product.
+6. Out team structure has changed from having rigidly defined structure to a loosely defined structure, where each member understands who is each role, while aiding each member as required."
+P49,12:11:00,T11,Second,Online,"1. not especially, the the requirements are very broad so we should be able to adapt if the scope ends up being too big
+
+2. nope
+
+3. yes weve started using openCV and have spent the last few weeks learning and researching it, so it hasnt been too concerning yet
+
+4. the customers seem great, theyve been very helpful in supplying resources and guidance.
+
+5. yes, its very handy especially since Kerrys project last year was very similar to the one we currently have
+
+6. nope"
+P66,12:11:00,T12,Second,Online,"Q6) Have we changed the structure of the team yet? If so, how and why?"
+P66,12:11:00,T12,Second,Online,"Still in requirements gathering, have not established much structure to the teams yet. The roles weve decided upon will come into effect once requirements are gathered. 
+"
+P57,12:11:00,T12,Second,Online,"Yeah I reckon its a little too early to figure this out, we could revisit this a one further on in the project."
+P53,12:11:00,T12,Second,Online,"Yeah I think well figure out what peoples strengths are once we start coding
+"
+P66,12:11:00,T12,Second,Online,Q5) How are our coache(s)?
+P57,12:11:00,T12,Second,Online,I like ewan and think hes been a good resource in pointing us in the right direction with how to go about doing our user stories etc and keeping us on track
+P66,12:11:00,T12,Second,Online,"Its nice to have someone whos been through the project before, guiding us through pitfalls and showing us what to do. His critique of user story/persona like Luke said is very helpful since he knew what Darryl wanted out of it.
+"
+P53,12:11:00,T12,Second,Online,"Yeah ewan is sick, been really helpful. From what Ive heard hes way better than coaches other teams have
+"
+P66,12:11:00,T12,Second,Online,Q4) How are we finding the behaviour of our customers?
+P66,12:11:00,T12,Second,Online,hahaha
+P57,12:11:00,T12,Second,Online,4) So how are we finding the customers behaviour
+P66,12:11:00,T12,Second,Online,"Darryl was hard to get a hold of first, it seemed to be a busy period for him, we have him booked now for this week and the next week. I think hes much more responsive once we have him on call
+"
+P53,12:11:00,T12,Second,Online,"seems basically like my stereotype of an office boss tbh, he gets shit done but he isnt that pleasant to talk to. Also seems very opinionated, like how he wants us to use angular and refused to use discord
+"
+P53,12:11:00,T12,Second,Online,"But yeah he is committed to the project which is good
+"
+P57,12:11:00,T12,Second,Online,"Yeah I was a bit worried when it took him a while to join the slack etc but everything seems fine now. I do agree with you rory on that, and him being a little unsure about what he wants from the project (client or web application) is a little frustrating"
+P66,12:11:00,T12,Second,Online,"I find Angular to be a bit concerning, the syntax and the amount of new stuff we have to learn is intimidating
+"
+P66,12:11:00,T12,Second,Online,"how do i remove this
+"
+P66,12:11:00,T12,Second,Online,yo guys our comments from the top are being deleted
+P53,12:11:00,T12,Second,Online,"lmao ah well
+"
+P66,12:11:00,T12,Second,Online,Q3) Are we using new tech? Is it concerning to us?
+P66,12:11:00,T12,Second,Online,"I find Angular to be a bit concerning, the syntax and the amount of new stuff we have to learn is intimidating"
+P57,12:11:00,T12,Second,Online,"If were going for a web app then I assume we could use django/some other tech from wad, but I think the new stuff is a little intimidating "
+P53,12:11:00,T12,Second,Online,yeah Ive not really dug into it yet but the guy seems to like it and it is pretty popular so must be alright  ¯\_(ツ)_/¯
+P66,12:11:00,T12,Second,Online,"I would like to become more familiarized with Electron/Angular that were doing so if anyone has tutorials etc.. I would appreciate the links 
+"
+P66,12:11:00,T12,Second,Online,"Moving on, question 2) Do we have to work across teams?"
+P53,12:11:00,T12,Second,Online,"no lol, unless we want to nick ideas from the other team
+"
+P57,12:11:00,T12,Second,Online,"Yeah I cant imagine that happening
+"
+P66,12:11:00,T12,Second,Online,"agreed
+"
+P66,12:11:00,T12,Second,Online,"ok decided to do it on here instead, scope of the project noted, will be discussed with Darryl tomorrow
+
+"
+P66,12:11:00,T12,Second,Online,rory m8 lets just go on slack for live discussion then post our answers to questions here
+P53,12:11:00,T12,Second,Online,"Yo if you just go into the html you can just drag the comment box div below the comments
+
+"
+P53,12:11:00,T12,Second,Online,"But its nested VERY deep lol
+"
+P66,12:11:00,T12,Second,Online,"1) - What do we think about the scope? I find the Windows App into WebApps concering, he doesnt seem to have a clear idea which he wants, I feel its best for us to push for the Web Application"
+P57,12:11:00,T12,Second,Online,"I agree, we need to confirm what were going to be building as soon as we can. I think the web app is the better option."
+P53,12:11:00,T12,Second,Online,"Yeah I think hes not clear on what he wants, so the scope of the project isnt well defined. Not sure if were deploying just to his company or we need a universal product, etc
+
+"
+P66,12:11:00,T12,Second,Online,"This is some bad UI, Im gonna have to scroll down n up everytime
+"
+P53,12:11:00,T12,Second,Online,hello
+P66,12:11:00,T12,Second,Online,"We can wait for boys
+
+"
+P57,12:11:00,T12,Second,Online,"yeah I meant when they join
+
+"
+P57,12:11:00,T12,Second,Online,should we just go question by question?
+P66,12:11:00,T12,Second,Online,"What happened to the live chat? lol
+"
+P66,12:11:00,T12,Second,Online,"test
+"
+P57,12:11:00,T12,Second,Online,😃
+P44,13:11:33,T10,Second,Online,the most important thing for me is coordination and support i find these thing in my coaches. The knowledge in specific field is very important and the coach we have are very supporting and informative.
+P46,13:11:33,T10,Second,Online, 
+P46,13:11:33,T10,Second,Online,"we can use machine learning techniques on the data of costumers 
+ "
+P45,13:11:33,T10,Second,Online,"data analytics and potentially prediction models can greatly help the businesses
+"
+P46,13:11:33,T10,Second,Online,its difficult to deploy but once it is deployed everything can be easy ❤
+P44,13:11:33,T10,Second,Online,I have discussed this project with retailer market owners and they seemed happy as time factor is reduced and they seemed willing to have this system. if we deploy the system in retailer market then customer must be satisfied as checkout time will be reduced as customers valuable time will not be wasted.
+P45,13:11:33,T10,Second,Online,"the market place will also benefit as they will be able to bring in more customers as the average time one consumer spends in the store will be reduced.
+
+"
+P45,13:11:33,T10,Second,Online,"have you discussed benefit for retailers with owners ?
+
+"
+P45,13:11:33,T10,Second,Online,the novelty of the idea alone will bring in more consumers who want to test out the system.
+P44,13:11:33,T10,Second,Online,"Ali :
+yes i have discussed it. they seemed willing
+"
+P45,13:11:33,T10,Second,Online,"thats great news.
+
+"
+P46,13:11:33,T10,Second,Online,"IOT can be of very helpful
+
+"
+P45,13:11:33,T10,Second,Online,yes but for you need a central hub 😃
+P45,13:11:33,T10,Second,Online,that*
+P44,13:11:33,T10,Second,Online,RFID is new technology we have to work with it as how to link it with web and mobile application. Server management must be a problem we will face as cloud server must deployed to coordinated web and mobile application.
+P45,13:11:33,T10,Second,Online,"Instead of cloud server we should deploy  local server for the fyp as we dont have that much time to deploy cloud server
+
+"
+P45,13:11:33,T10,Second,Online,"We can make a local server for prototyping
+
+"
+P45,13:11:33,T10,Second,Online,we should also start working data analysis  @arslan
+P46,13:11:33,T10,Second,Online,data analytics can help business to grow efficiently 
+P46,13:11:33,T10,Second,Online,"we dont need to work across the teams , we have to work insuring the  designers developers and all must be at the same place"
+P44,13:11:33,T10,Second,Online,i dont think so that work should be done across teams as we are located in same location.
+P45,13:11:33,T10,Second,Online,we might have to do it if we want expand and incubate our project
+P46,13:11:33,T10,Second,Online,"yes considering the nature of project all the members should be at the same place
+
+"
+P46,13:11:33,T10,Second,Online,👍
+P45,13:11:33,T10,Second,Online,I am also concerned about the deployment cost
+P44,13:11:33,T10,Second,Online,Equipment are costly but we have to manage it in accordance with faculty.
+P45,13:11:33,T10,Second,Online,"@hassan khan you are right 
+
+"
+P46,13:11:33,T10,Second,Online,yes 👍
+P46,13:11:33,T10,Second,Online,"The problems faced by the customer in a store,we are concerned  about facilitating the customer such that a business could grow more.
+
+"
+P44,13:11:33,T10,Second,Online,we are concerned about scope of project as we are focusing on problems facing in retailer market. 
+P45,13:11:33,T10,Second,Online,"yes we are  concerned about the scope of the project, because how much difficulties retailers market faces due to lack of technology integration.
+
+"
+P60,10:30:15,T13,Third,Online,1. The scope of the project seems pretty manageable. No concern.
+P60,10:30:44,T13,Third,Online,2. We should cooperate with the other team which also got this client.
+P60,10:30:46,T13,Third,Online,"3. We are going to have to learn new technologies in accordance with our planning, but we are not concerned."
+P60,10:31:35,T13,Third,Online,"4. Communicating clearly with the customer can be a challenge, but we are approaching it optimistically."
+P60,10:32:23,T13,Third,Online,"5. The coachs previous experience, and guidance is proving helpful."
+P60,10:32:30,T13,Third,Online,6. The structure of the team has not changed since we decided on roles.
+P57,10:33:10,T12,Third,Online,"I think the progress of the project has been halted quite significantly due to the issues with the system over christmas, but having moved the project to a private gitlab, I think well be able to progress and meet our goals for the next iteration"
+P57,10:33:29,T12,Third,Online,"Possibly not all of them due to the time constraints, but I reckon we can achieve the more important ones (getting a pdf uploaded, squares drawn, and text extracted) in time"
+P44,10:12:07,T10,Third,Online, ok I am working on SRS document
+P44,10:12:09,T10,Third,Online,Yes. Tayyab do you know about EEG technology?
+P44,10:12:11,T10,Third,Online,Yes waleed discuss in detail so tayyab will also get it
+P45,10:12:12,T10,Third,Online,"Hey, what is the idea of our our FYP project"
+P45,10:12:16,T10,Third,Online,"Hey Everyone, I hope you all are good"
+Sul,10:12:19,T10,Third,Online,Hi waleed. how are you and what you think about the FYP idea which we discussed in my home last night?
+P45,10:12:20,T10,Third,Online,We have to discuss some more things on idea.
+P45,10:12:21,T10,Third,Online,"Our last idea was to detect lie using BCI technology, any update on that ?"
+P45,10:12:22,T10,Third,Online,We should work on the project that helps disables
+P44,10:12:22,T10,Third,Online,waleed discuss in detail so tayyab will also get it
+P45,10:12:22,T10,Third,Online,Disables ? What technology will we use ? Image processing? 
+P45,10:12:22,T10,Third,Online,"We can use EEG Signals to get Brain Signals and disable person can play game by only using their mind.
+"
+P44,10:12:28,T10,Third,Online,Yes. Tayyab do you know about EEG technology?
+P45,10:12:29,T10,Third,Online,"I heard about it, I think some companies working on it, I heard about EMOTIV and thier devices."
+P45,10:12:30,T10,Third,Online,"We may use Emotiv Insight device which is cheap in that technology to record brain activities
+
+"
+P44,10:12:22,T10,Third,Online,Yes Emotiv is the device which is used to record EEG signals. Basically EEG technology are which captures brain activity in signal form
+P45,10:12:34,T10,Third,Online,"Alright, But Waleed why EMOTIV INSIGHT, there are more powerful devices available like EMOTIV EPOC+ which can give us better accuracy.
+Search Here : 
+"
+P45,10:12:34,T10,Third,Online,Emotiv Insight is very user friendly and easy to wear and its accuracy is also good as its price
+P44,10:12:34,T10,Third,Online,yes tayyab Emotiv insight is also cheaper then EPOC+ and our project will done with this device easily.
+P45,10:12:34,T10,Third,Online,"Alright, If thats enough for our project then lets do it.
+What game engine we will be using to make game ?
+I suggest UnReal Engine, It is based on new technology.
+"
+P45,10:12:34,T10,Third,Online,"I know UNITY it use c#, what language UnReal Engine support ?"
+P45,10:12:34,T10,Third,Online,"In which language, we will implement our project?"
+P44,10:12:34,T10,Third,Online,UnReal Engine supports C++ and it is also used by many famous games and I do work on Unreal Engine. It is easy to develop game with basic functionality
+P45,10:12:34,T10,Third,Online,"We will use python for project, Python is very powerful when it come to machine learning or processing algorithms."
+P45,10:12:34,T10,Third,Online,"Ok Lets discuss the scope our our project
+"
+P44,10:12:34,T10,Third,Online,Tayyab I think you will get it what we are trying to make. This is a game which is fully dedicated to persons which have some type of disability and they does not enjoy the E-gaming. In this way they will also take part in the events and socialize with other people. In this way they have not regret of being disable. They feel confident. 
+P45,10:12:34,T10,Third,Online,"There is no major activities for disables. So, I think this is a big opportunity for them to stay their focus clear and that also helps in our project"
+P45,10:12:34,T10,Third,Online,"We have to present this idea to panel on coming Monday,
+So finalized idea is we are going to make a game for disables using EMOTIV INSIGHT device, which use EEG Signals to get brain data.
+"
+P44,10:12:34,T10,Third,Online,ok first we should prepare our defense presentation
+P45,10:12:34,T10,Third,Online,"Yeah, I see the schedule of Defense Presentations on Slate "
+P45,10:12:40,T10,Third,Online,We would also have to do some search on process of our project
+P45,10:12:40,T10,Third,Online,"Okay, I study about EEG technology, Waleed you search about EMOTIV and Suleman get the information about UnReal engine, then we compile them to one document."
+P44,10:12:40,T10,Third,Online,yes I make my part slides which is on game idea and how we are going to develop it
+P45,10:12:40,T10,Third,Online,"Okay, We will search for it"
+P45,10:12:40,T10,Third,Online,"So presentation is ready ? Suleman can you share the updated slides on google drive, so I can take a look."
+P44,10:12:40,T10,Third,Online,yes I email you. check your email
+P45,10:12:40,T10,Third,Online,Tomorrow is our Presentation at 2:45 after Jummah Break
+P45,10:12:40,T10,Third,Online,"Thanks, for reminder Waleed.
+See you both tomorrow.
+"
+P44,10:12:40,T10,Third,Online,Ok brothers. With the blessing of Allah our idea is accepted. Now we should research on further details on how we are going to implement this idea like how we are taking brain signal from device etc
+P45,10:12:40,T10,Third,Online,"Tomorrow we have to go to our Supervisor.
+"
+P45,10:12:40,T10,Third,Online,What time Waleed ?
+P45,10:12:40,T10,Third,Online,After lecture of Software of mobile Devices at  3:15 PM
+P45,10:12:41,T10,Third,Online,Suleman will you free at that time ?
+P44,10:12:41,T10,Third,Online,kindly brother I have my Remote sensing and GIS lecture so wait for an hour then we will meet our supervisor
+P45,10:12:41,T10,Third,Online,"So our documentation era is started, we should work on Vision document and SRS document first."
+P45,10:12:41,T10,Third,Online,Ok we will wait for you at outside of your class
+P44,10:12:41,T10,Third,Online,"
+ ok I am working on SRS document
+"
+P45,10:12:41,T10,Third,Online,I am working on Vision Document. We have to follow the template of IEEE
+P45,10:12:41,T10,Third,Online,"Okay, I will get information about UseCases,  let me know if you need my help."
+P44,10:12:41,T10,Third,Online,Tayyab I emailed you SRS document. Kindly review it
+P45,10:12:41,T10,Third,Online,I sent you both an email of Vision Document
+P45,10:12:41,T10,Third,Online,I think we have to review our final document
+P45,10:12:41,T10,Third,Online,Great (Y) I have made a repository on GitHub and invited both of you our all documents are there including UseCase Diagram.
+P45,10:12:41,T10,Third,Online,I am working on Operation Contracts at this time
+P44,10:12:41,T10,Third,Online,Ok Now I start working on High level and extended usecase
+P45,10:12:41,T10,Third,Online,"Alright, Ill be working on domain model and class Diagram."
+P45,10:12:41,T10,Third,Online,"Ive pushed Domain Model and Class diagram on github, you both push your updates too, so we can cross check all the documents."
+P45,10:12:41,T10,Third,Online,Please create a pull request on Github
+P44,10:12:41,T10,Third,Online,I pushed it and working on SSD
+P45,10:12:41,T10,Third,Online,"Waleed! Check again, its done."
+P44,10:12:41,T10,Third,Online,"I pushed SSD and working on SD 
+
+"
+P45,10:12:41,T10,Third,Online,I pushed my work and I am working on System Sequence Diagram
+P45,10:12:45,T10,Third,Online,"Okay, I am working on Activity diagram.
+Waleed when is our next meeting with supervisor ?
+"
+P45,10:12:45,T10,Third,Online,I made an appointment with our supervisor at 2:00 clock
+P44,10:12:45,T10,Third,Online,Ok I will be there
+P45,10:12:45,T10,Third,Online,"Push all the work on GitHub, we have one day left."
+P44,10:12:45,T10,Third,Online,I pushed all the work from my side. I will stay in hostel for preparation of our Mid Pesentation
+P45,10:12:45,T10,Third,Online,I made all of the changes and update my branch on GitHub. You can take a pull of my branch
+P45,10:12:45,T10,Third,Online,"Okay, we do all proof reading one more time before the presentation,
+Good Luck for presentation 
+"
+P44,10:12:45,T10,Third,Online,"Ok Brothers. Masha Allah. The door of success are opening by Almighty Allah. Alhamdulillah  . Now I think our implementation part is remaining, documentation clears maximum doubts.  "
+P45,10:12:45,T10,Third,Online,"Waleed you issue the device from University tomorrow, while Ill study about EMOTIV Cortex Apis and Suleman you download and install all cortex packages we need."
+P45,10:12:45,T10,Third,Online,I issued the device and also install Cortex desktop App on my Laptop
+P44,10:12:48,T10,Third,Online,I setup cortex with python
+P45,10:12:48,T10,Third,Online,"Lets record the signals and apply Classification algorithms, I think we should try SVM first."
+P45,10:12:49,T10,Third,Online,I think we should apply some feature extraction on our data
+P44,10:12:53,T10,Third,Online,Yes PCA is good and well known algorithm for feature extraction
+P45,10:12:58,T10,Third,Online,"Okay, then first we will apply PCA on our data-set then go for Classification algorithms."
+P39,10:29:00,T9,Third,Online,hello team mates
+P40,10:29:00,T9,Third,Online,Hey !!
+P39,10:30:00,T9,Third,Online,fawad are you there
+P41,10:30:00,T9,Third,Online,Yes i am on it
+P39,10:30:00,T9,Third,Online,lets discuss the project
+P40,10:30:00,T9,Third,Online,what do you guys think about the scope of project ?
+P39,10:31:00,T9,Third,Online,mate bassically the scope of this project is very high 
+P40,10:32:00,T9,Third,Online,how  come ?
+P39,10:32:00,T9,Third,Online,we are basically building an e game which is emotionaly intelligent 
+P39,10:33:00,T9,Third,Online,this game detect your emotions through your face and change the sceniero according to your emotion
+P40,10:33:00,T9,Third,Online,ok it seems quite interesting ?
+P39,10:33:00,T9,Third,Online,yeah its quite interesting 
+P39,10:33:00,T9,Third,Online,as you can see :)
+P40,10:34:00,T9,Third,Online,Have you started the implementation ?
+P39,10:34:00,T9,Third,Online,We are currently doing the module of emotion detection 
+P41,10:35:00,T9,Third,Online,Yes firstly i am working  on the  Facial emotion recognize module 
+P40,10:35:00,T9,Third,Online,ok then ?
+P41,10:36:00,T9,Third,Online,In the first step i detect face 
+P41,10:36:00,T9,Third,Online,and also extract features 
+P41,10:38:00,T9,Third,Online,"But awais, I am having some problem while downloading the data set from keggle"
+P39,10:39:00,T9,Third,Online,yeah i know about this 
+P39,10:39:00,T9,Third,Online,i read some faqs related about kagle dataset 
+P39,10:40:00,T9,Third,Online,the moderator of discussion says that 
+P39,10:40:00,T9,Third,Online,the data set can be used as a web service
+P39,10:40:00,T9,Third,Online,they have provided the api 
+P39,10:40:00,T9,Third,Online,which can be accessible thorugh python CLI
+P41,10:42:00,T9,Third,Online,"so awais you do work on the api ,and implement it"
+P41,10:42:00,T9,Third,Online,currently i am using jaffe data set 
+P41,10:43:00,T9,Third,Online,Jaffe data set have 300 emotional images
+P40,10:44:00,T9,Third,Online,"i think we will doing much effort to complete this daring game,,"
+P39,10:45:00,T9,Third,Online,yes its a bit difficult task but we will try our best to complete this module
+P39,10:46:00,T9,Third,Online,if we work together this is not going to be difficult 
+P40,10:47:00,T9,Third,Online,have u guys any idea how will we be doing the psychological section of the game?
+P41,10:48:00,T9,Third,Online,But the mates good thing is we complete the three steps 1.detect face 2.crop face 3. feature extract
+P39,10:48:00,T9,Third,Online,thats great 
+P39,10:50:00,T9,Third,Online,asad we are currently focusing on emotion detection module
+P39,10:50:00,T9,Third,Online,we will do pyschological module in next term 
+P40,10:51:00,T9,Third,Online,lets come to facial detection ..
+P40,10:52:00,T9,Third,Online,which method are you using for facial detection.
+P41,10:54:00,T9,Third,Online,I used Haar cascade algorithm for face detection
+P40,10:54:00,T9,Third,Online,"hmm, tell me about its working ?"
+P41,10:56:00,T9,Third,Online,I am using Open CV (computer vision library)
+P40,10:57:00,T9,Third,Online,working of Haar cascade
+P40,10:57:00,T9,Third,Online,tell me about it ..
+P41,10:57:00,T9,Third,Online,https://www.researchgate.net/publication/267990783_Implementation_of_Face_Detection_System_Using_Haar_Classifiers
+P41,10:58:00,T9,Third,Online,Asad read this and you will know implementation of face detection using haar classifier
+P40,10:59:00,T9,Third,Online,tell me about the overview and i'll definately read it..
+P41,11:01:00,T9,Third,Online,"A Haar Cascade is basically a classifier which is used to detect the object for which it has been trained for, from the source. The Haar Cascade is by superimposing the positive image over a set of negative images. The training is generally done on a server and on various stages."
+P40,11:02:00,T9,Third,Online,ok got it
+P41,11:02:00,T9,Third,Online,Awais are you there??
+P39,11:05:00,T9,Third,Online,yeah 
+P39,11:05:00,T9,Third,Online,i am reading your messages
+P40,11:06:00,T9,Third,Online,What's your contribution till now awais ?
+P40,11:06:00,T9,Third,Online,what are you woking on
+P40,11:07:00,T9,Third,Online,explain it please!
+P39,11:09:00,T9,Third,Online,asad i am currently doing work on dataset 
+P39,11:09:00,T9,Third,Online,we are facing some complexities in downloading dataset 
+P40,11:10:00,T9,Third,Online,tell me about the training process ?
+P41,11:10:00,T9,Third,Online,Tell us.. can you find a way how to save all features in a file with label ??
+P41,11:14:00,T9,Third,Online,awais??
+P39,11:16:00,T9,Third,Online,yess 
+P39,11:16:00,T9,Third,Online,i consulted hashir they are also doing the same module
+P39,11:18:00,T9,Third,Online,they asked me to store the features in the variable 
+P39,11:18:00,T9,Third,Online,and then use that variable where you needed
+P41,11:19:00,T9,Third,Online,ok mates
+P39,11:20:00,T9,Third,Online,okay 
+P63,16:11:01,T14,Third,Online,No we havent changed the structure yet. Im not sure if we plan to do that even!
+P64,16:11:04,T14,Third,Online,I am not sure if were even allowed to do that 
+P65,16:11:07,T14,Third,Online,I think we are fine the way we are
+P66,16:11:10,T14,Third,Online,That will take place once we implement the project. If its not confirmable for the end user than we will change the structure according to there criteria.
+P63,16:11:14,T14,Third,Online,Coaches are very useful actually!
+P65,16:11:18,T14,Third,Online,giving us real help
+P64,16:11:21,T14,Third,Online,"yes,Indeed.Theyve been really helpful all along so far."
+P66,16:11:20,T14,Third,Online,No doubt if coach is motivated than yes
+P65,16:11:20,T14,Third,Online,"Its still in the making phases, we dont hae customers"
+P64,18:11:20,T14,Third,Online,* have 
+P63,16:11:37,T14,Third,Online,But we plan to target the metropolitan.
+P64,16:11:46,T14,Third,Online,but we plan on targeting the metropoliton government
+P64,16:11:52,T14,Third,Online,lol jinx
+P66,16:11:52,T14,Third,Online,I disagree metropolitan is not our only customer. Dustin will be in fact also used by people using dustbins. Yes even though these people wont buy these dustbins only waste management companies will buy them. But they will pay for these services to the metropolitan govt. and they will benefit from it also. 
+P63,16:11:52,T14,Third,Online,I think we will be using the already defined concepts. IOT  is the major area
+P64,16:11:52,T14,Third,Online,"well to us,It is kind of new."
+P65,16:11:52,T14,Third,Online,We are actually new to this.. I agree
+P66,16:11:52,T14,Third,Online,We are definitely using IOT which is the future of the technologies we use today this field will improve day by day
+P64,16:11:52,T14,Third,Online,For 2. Yes if needed
+P63,16:11:52,T14,Third,Online,"We will be having two teams I think, hardware and software teams! 2 people each. What do u say?"
+P64,16:11:52,T14,Third,Online,Sounds good
+P65,16:11:52,T14,Third,Online,Yes 
+P66,16:11:52,T14,Third,Online,"The project we select is on the waste management system. The major concern is the waste pollution caused in different areas in Pakistan. And the focus is making the waste collection a timely and efficient solutions.
+
+"
+P65,16:11:52,T14,Third,Online,"Yes,One of the most important thing to be concerned about "
+P64,16:11:52,T14,Third,Online,"Yes definitely,Its very important."
+P63,16:11:52,T14,Third,Online,"Yes, definitely. A projects scope is everything if we want it to be successful in the longer run. A waste management system is much needed in a country like Pakistan."
+P66,16:11:52,T14,Third,Online,Yes but if you see the status quo of Pakistan awareness is also important and timely getting the waste is included. 
+P65,16:11:52,T14,Third,Online,"1. Yes
+2. Yes
+3. Not yet
+4. Satisfying
+5. At times, Yes
+6. No"
+P66,16:11:52,T14,Third,Online,"1. No
+2. Yes this tells how people communicate with each other and how they manage. 
+3. Yes, new technologies are produced every day and I have used them on monthly bases.
+4. Need of satisfying customers
+5. If u are happy with what they do then yes, if they are doing just to make money than no.
+6. No, we will only do that if we inspire the team leaders."
+P64,16:11:52,T14,Third,Online,"1. Not really
+2. yes
+3. yes,yes.
+4. its satisfying
+5. yes 
+6. not yet,no idea."
+P63,16:11:52,T14,Third,Online,"1. Yes.
+2. Yes.
+3. No.
+4. Fine.
+5. Maybe.
+6. No."
